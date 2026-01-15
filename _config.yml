@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Johanna Hölzl"
 title_separator          : "-"
 name                     : &name "Johanna Hölzl"
-description              : &description "I am a sociologist and data scientist researching the quality of new data sources in the social sciences, for instance, from Internet search data."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "I am a sociologist and data scientist researching the quality of new data sources and methods for the social sciences."
 url                      : https://johannahoelzl.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/website"
 repository               : "johannahoelzl/johannahoelzl.github.io"
