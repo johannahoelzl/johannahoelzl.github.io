@@ -251,9 +251,9 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: teaching
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -280,7 +280,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
