@@ -1,12 +1,11 @@
 ---
-title: "Bachelor Thesis Colloquium"
+title: "Bachelor Thesis Colloquium and Thesis Supervision"
 collection: teaching
-type: "Bachelor's course (Spring 2024, 2025, and 2026)"
-layout: teaching
+type: "Bachelor's course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Mannheim, Chair of Social Data Science and Methodology"
 date: 2026-02-11
-date_display: "Spring 2024, 2025, and 2026"
+date_displayed: "Spring 2024, 2025, and 2026"
 location: "Mannheim, Germany"
 ---
 

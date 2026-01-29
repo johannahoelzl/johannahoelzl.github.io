@@ -1,12 +1,11 @@
 ---
 title: "Empirical Research Course I and II"
 collection: teaching
-type: "Bachelor's course (Spring and Fall 2023 and 2024)"
-layout: teaching
+type: "Bachelor's course"
 permalink: /teaching/2023-2024-Forschungspraktikum
 venue: "University of Mannheim, Chair of Social Data Science and Methodology"
 date: 2024-02-07
-date_display: "Spring and Fall 2023 and 2024"
+date_displayed: "Spring and Fall 2023 and 2024"
 location: "Mannheim, Germany"
 ---
 

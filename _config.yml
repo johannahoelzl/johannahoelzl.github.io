@@ -251,7 +251,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: teaching
+      layout: single
       author_profile: true
       share: false
       comments: true

@@ -1,12 +1,11 @@
 ---
 title: "Data Collection Exercise Course"
 collection: teaching
-type: "Bachelor's course (Fall 2022, 2023, 2024, and 2025)"
-layout: teaching
+type: "Bachelor's course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Mannheim, Chair of Social Data Science and Methodology"
 date: 2025-09-10
-date_display: "Fall 2022, 2023, 2024, and 2025"
+date_displayed: "Fall 2022, 2023, 2024, and 2025"
 location: "Mannheim, Germany"
 ---
 
