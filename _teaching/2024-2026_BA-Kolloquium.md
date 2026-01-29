@@ -10,4 +10,4 @@ date_display: "Spring 2024, 2025, and 2026"
 location: "Mannheim, Germany"
 ---
 
-Colloquium accompanying the Bachelor’s thesis in Sociology, supporting students in the preparation and completion of a quantitative empirical thesis. The course provides close supervision throughout the research process, including guidance on topic development, research design, and the resolution of conceptual challenges, as well as support with statistical analyses in R. Students work on a diverse range of substantive topics of their choice and receive continuous feedback on their progress.
+Colloquium accompanying the Bachelor’s thesis in Sociology, supporting students in the preparation and completion of a quantitative empirical thesis. The course provides close supervision throughout the research process, including guidance on topic development, research design, and the resolution of conceptual and statistical challenges. Students independently work on a diverse range of substantive topics of their choice and receive continuous feedback on their progress.

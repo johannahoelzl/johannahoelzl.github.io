@@ -5,7 +5,7 @@ type: "Bachelor's course (Spring and Fall 2023 and 2024)"
 layout: teaching
 permalink: /teaching/2023-2024-Forschungspraktikum
 venue: "University of Mannheim, Chair of Social Data Science and Methodology"
-date: 2023-02-08
+date: 2024-02-07
 date_display: "Spring and Fall 2023 and 2024"
 location: "Mannheim, Germany"
 ---
