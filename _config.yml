@@ -215,6 +215,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
   publications:
     output: true
     permalink: /:collection/:path/
@@ -255,6 +256,7 @@ defaults:
       author_profile: true
       share: false
       comments: true
+      sort_by: date
   # _publications
   - scope:
       path: ""

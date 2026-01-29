@@ -11,7 +11,7 @@ I am a PhD candidate in Sociology at the University of Mannheim where I research
 
 I joined the [Chair for Social Data Science and Methodology](https://www.sowi.uni-mannheim.de/keusch/) at the University of Mannheim in August 2021 as a PhD candidate supervised by Florian Keusch. Besides my research, I teach quantitative methods courses in the Sociology Bachelor's program.
 
-I hold a Bachelor's and Master’s degree in Sociology from the Otto-Friedrich-Universität Bamberg, Germany, and a Master’s degree in Sociology and Social Research from the University of Trento, Italy. Before my PhD, I worked as a research assistant in the project ['Refugees in the German Educational System](https://www.lifbi.de/de-de/Start/Forschung/Projekte/ReGES) at the LIfBi where I was mainly occupied with data validation.
+I hold a Bachelor's and Master’s degree in *Sociology* from the Otto-Friedrich-Universität Bamberg, Germany, and a Master’s degree in *Sociology and Social Research* from the University of Trento, Italy. Before my PhD, I worked as a research assistant in the project ['Refugees in the German Educational System](https://www.lifbi.de/de-de/Start/Forschung/Projekte/ReGES) at the LIfBi where I was mainly occupied with data validation.
 
 
 

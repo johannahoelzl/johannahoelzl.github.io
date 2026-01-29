@@ -5,6 +5,7 @@ type: "Invited talk"
 permalink: /talks/2023-06-12-Research-Plus
 venue: "Taproom, Mannheim"
 date: 2023-06-12
+date_display: " June 12, 2023"
 location: "Mannheim, Germany"
 ---
 

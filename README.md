@@ -1,4 +1,4 @@
-# Personal Website based on Academic Pages Template
+# Personal Website based on the following Academic Pages Template:
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
