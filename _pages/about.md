@@ -18,7 +18,7 @@ I hold a Bachelor's and Master’s degree in *Sociology* from the Otto-Friedrich
 Current Projects
 ======
 - **"My (22m) Girlfriend (23f) Comes Home and Does Nothing" — Gendered Perceptions of Paid and Household Labor in Reddit Relationship Discussions over Time**: Together with Birgit Zeyer Gliozzo, Gundula Zoch, and Philipp Doebler, we examine how well LLMs can annotate manifest and latent constructs in Reddit posts. Building on these annotations, we study how male and female Redditors discuss relationship conflicts around paid and household labor over time.
-- **Machine Learning and LLM Classification of Content in Webtracking Data**: In the last paper for my dissertation, I examine how ML approaches and LLMs can help researchers in the classification of URLs from webtracking data.
+- **Machine Learning and LLM Classification of Content in Webtracking Data**: In the last paper for my dissertation, I examine how LLMs and ML approaches can help researchers in the classification of URLs from webtracking data.
 
 
 Publications
