@@ -317,6 +317,9 @@
       }
     }
   }
+  &__toggle {
+    display: none !important;
+  }
 }
 
 
@@ -441,4 +444,11 @@
       display: block;
     }
   }
+}
+
+// Force hide navigation toggle
+.greedy-nav__toggle,
+.greedy-nav button {
+  display: none !important;
+  visibility: hidden !important;
 }
