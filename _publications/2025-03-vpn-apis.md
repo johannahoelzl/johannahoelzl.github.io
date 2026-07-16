@@ -10,7 +10,7 @@ excerpt: |
 
 date: 2026-06-23
 venue: 'Preprint'
-link: 'https://osf.io/cd6rw/overview'
+link: 'https://osf.io/cd6rw/overview?view_only=cf4d23c81450410da507820310c6c89e'
 paperurl: '/files/Hoelzl,Keusch,Collins_2026_Preprint.pdf'
 bibtexurl: 'https://academicpages.github.io/files/2025-vpn-apis.bib'
 citation: 'Hölzl, Johanna, Florian Keusch, John Collins. (2025). &quot;Where You Are Is What You Get! Inconsistencies of Digital Trace Data Across Download Locations.&quot; <i>Preprint</i> available on OSF: 10.17605/OSF.IO/CD6RW'
