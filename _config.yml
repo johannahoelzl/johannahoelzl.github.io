@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Johanna Hölzl"
+title                    : "Johanna Hölzl - Sociologist & Data Scientist - Uni Mannheim"
 title_separator          : "-"
 name                     : &name "Johanna Hölzl"
 description              : &description "I am a sociologist and data scientist researching the quality of new data sources and methods for the social sciences."
