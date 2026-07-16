@@ -8,7 +8,7 @@ excerpt: |
 
   The study is currently under review in *Social Science Computer Review* and has been preregistered under 10.17605/OSF.IO/HDJ6Q for Google Trends and 10.17605/OSF.IO/U742B for the YouTube and NYT API.
 
-date: 2025-12-23
+date: 2026-06-23
 venue: 'Preprint'
 link: 'https://osf.io/cd6rw/overview'
 paperurl: '/files/Hoelzl,Keusch,Collins_2026_Preprint.pdf'

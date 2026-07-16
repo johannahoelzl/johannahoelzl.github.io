@@ -11,14 +11,14 @@ I am a PhD candidate in Sociology at the University of Mannheim where I research
 
 I joined the [Chair of Social Data Science and Methodology](https://www.sowi.uni-mannheim.de/keusch/) at the University of Mannheim in August 2021 as a PhD candidate supervised by Florian Keusch. Besides my research, I teach quantitative methods courses in the Sociology Bachelor's program.
 
-I hold a Bachelor's and Master’s degree in *Sociology* from the Otto-Friedrich-Universität Bamberg, Germany, and a Master’s degree in *Sociology and Social Research* from the University of Trento, Italy. Before my PhD, I worked as a research assistant in the project ['Refugees in the German Educational System](https://www.lifbi.de/de-de/Start/Forschung/Projekte/ReGES) at the LIfBi where I primarily worked on data validation.
+I hold a Bachelor's and Master’s degree in *Sociology* from the Otto-Friedrich-Universität Bamberg, Germany, and a Master’s degree in *Sociology and Social Research* from the University of Trento, Italy. Before my PhD, I worked as a research assistant in the project [Refugees in the German Educational System](https://www.lifbi.de/de-de/Start/Forschung/Projekte/ReGES) at the LIfBi where I primarily worked on data validation.
 
 
 
 Current Projects
 ======
-- **"My (22m) Girlfriend (23f) Comes Home and Does Nothing" — Gendered Perceptions of Paid and Household Labor in Reddit Relationship Discussions over Time**: Together with Birgit Zeyer Gliozzo, Gundula Zoch, and Philipp Doebler, we examine how well LLMs can annotate manifest and latent constructs in Reddit posts. Building on these annotations, we study how male and female Redditors discuss relationship conflicts around paid and household labor over time.
-- **Machine Learning and LLM Classification of Content in Webtracking Data**: In the last paper of my dissertation, I examine how LLMs and ML approaches can help researchers in the classification of URLs from webtracking data.
+- [**"My (22m) Girlfriend (23f) Comes Home and Does Nothing" — Gendered Perceptions of Paid and Household Labor in Reddit Relationship Discussions over Time**](https://osf.io/f6d7e/files/jdfbt?view_only=361ed0fbe9c245538faed71bdd539f52): Together with Birgit Zeyer Gliozzo, Gundula Zoch, and Philipp Doebler, we examine how well LLMs can annotate manifest and latent constructs in Reddit posts. Building on these annotations, we study how male and female Redditors discuss relationship conflicts around paid and household labor over time.
+- **Gendered Communication in German Political Interview Podcasts Through Multimodal Data**: In the last paper of my dissertation, I examine whether men and women get treated differently by interviewers in political interviews, using multimodal data from podcast episodes.
 
 
 Publications
