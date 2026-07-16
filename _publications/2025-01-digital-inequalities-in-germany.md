@@ -7,7 +7,7 @@ excerpt: 'Data set on digital inequalities in Germany. The data for this project
 date: 2025-08-14
 venue: 'GESIS Data Archive'
 link: 'https://search.gesis.org/research_data/SDN-10.7802-2915'
-bibtexurl: 'https://academicpages.github.io/files/2025-digital-inequalities-in-germany.bib'
+bibtexurl: '/files/2025-digital-inequalities-in-germany.bib'
 citation: 'Hölzl, Johanna, Daria Szafran, Florian Keusch. (2025). &quot;Digitale Ungleichheiten in Deutschland.&quot; <i>GESIS Data Archive</i>. DOI: 10.7802/2915'
 ---
 

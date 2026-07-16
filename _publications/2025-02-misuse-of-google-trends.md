@@ -9,7 +9,7 @@ venue: 'Social Science Research'
 link: 'https://www.sciencedirect.com/science/article/pii/S0049089X24001212'
 github: 'https://github.com/johannahoelzl/google_trends_slr_analyses'
 code: 'https://osf.io/ctn63/overview'
-bibtexurl: 'https://academicpages.github.io/files/2025-misuse-of-google-trends.bib'
+bibtexurl: '/files/2025-misuse-of-google-trends.bib'
 citation: 'Hölzl, Johanna, Florian Keusch, Christoph Sajons. (2025). &quot;The (mis)use of Google Trends data in the social sciences - A systematic review, critique, and recommendations.&quot; <i>Social Science Research</i>. 126(103099). DOI: 10.1016/j.ssresearch.2024.103099'
 ---
 

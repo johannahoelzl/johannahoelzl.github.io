@@ -9,6 +9,6 @@ date: 2026-07-14
 venue: 'Preprint'
 link: 'https://osf.io/f6d7e/files/jdfbt?view_only=361ed0fbe9c245538faed71bdd539f52'
 paperurl: '/files/Zeyer-Gliozzo,Hoelzl,Zoch,Doebler_2026_Preprint.pdf'
-bibtexurl: 'https://academicpages.github.io/files/2026-reddit-gpt.bib'
+bibtexurl: '/files/2026-reddit-gpt.bib'
 citation: 'Zeyer Gliozzo, Birgit, Johanna Hölzl, Gundula Zoch, Philipp Doebler. (2026). &quot;"My (22m) Girlfriend (23f) Comes Home and Does Nothing" — Gendered Perceptions of Paid and Household Labor in Reddit Relationship Discussions over Time.&quot; <i>Preprint</i> available on OSF: 10.17605/OSF.IO/F6D7E'
 ---
