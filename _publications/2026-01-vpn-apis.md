@@ -13,6 +13,6 @@ link: 'https://doi.org/10.1177/08944393261469494'
 github: 'https://github.com/johannahoelzl/vpn_apis_analyses'
 appendix: 'https://osf.io/cd6rw/overview?view_only=cf4d23c81450410da507820310c6c89e'
 bibtexurl: '/files/2026-vpn-apis.bib'
-citation: 'Hölzl, Johanna, Florian Keusch, John Collins. (2026). &quot;Where You Are Is What You Get! Inconsistencies of Digital Trace Data across Download Locations.&quot; <i>Social Science Computer Review.<i> DOI: 10.1177/08944393261469494. https://doi.org/10.1177/08944393261469494'
+citation: 'Hölzl, Johanna, Florian Keusch, John Collins. (2026). &quot;Where You Are Is What You Get! Inconsistencies of Digital Trace Data across Download Locations.&quot; <i>Social Science Computer Review.<i> DOI: 10.1177/08944393261469494.'
 ---
 
