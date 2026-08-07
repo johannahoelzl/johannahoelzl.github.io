@@ -23,9 +23,9 @@ Current Projects
 
 Publications
 ======
-Johanna Hölzl, Florian Keusch, John Collins (2026). ['Where You Are Is What You Get! Inconsistencies of Digital Trace Data Across Download Locations'](https://doi.org/10.1177/08944393261469494). *Social Science Computer Review*. DOI: 10.1177/08944393261469494.
+Johanna Hölzl, Florian Keusch, John Collins (2026). ['Where You Are Is What You Get! Inconsistencies of Digital Trace Data Across Download Locations'](https://doi.org/10.1177/08944393261469494). *Social Science Computer Review* 0(0). DOI: 10.1177/08944393261469494.
 
-Johanna Hölzl, Florian Keusch, Christoph Sajons (2025). ['The (mis)use of Google Trends data in the social sciences — A systematic review, critique, and recommendations'](https://linkinghub.elsevier.com/retrieve/pii/S0049089X24001212). *Social Science Research* 126:103099. DOI: 10.1016/j.ssresearch.2024.103099
+Johanna Hölzl, Florian Keusch, Christoph Sajons (2025). ['The (mis)use of Google Trends data in the social sciences — A systematic review, critique, and recommendations'](https://linkinghub.elsevier.com/retrieve/pii/S0049089X24001212). *Social Science Research* 126(103099). DOI: 10.1016/j.ssresearch.2024.103099
 
 Johanna Hölzl, Daria Szafran, Florian Keusch (2025). ['Digitale Ungleichheiten in Deutschland'](https://search.gesis.org/research_data/SDN-10.7802-2915). *GESIS Data Archive*. DOI: 10.7802/2915
 
