@@ -1,5 +1,5 @@
 ---
-title: '"My (22m) Girlfriend (23f) Comes Home and Does Nothing" — Gendered Perceptions of Paid and Unpaid Work in Reddit Relationship Discussions over Time'
+title: '"My (22m) Girlfriend (23f) Comes Home and Does Nothing" - Using LLMs to Study Gendered Perceptions of Paid and Unpaid Work in Reddit Relationship Discussions'
 collection: publications
 category: manuscripts
 permalink: /publication/2026-reddit-gpt
