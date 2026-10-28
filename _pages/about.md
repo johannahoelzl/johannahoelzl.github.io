@@ -18,7 +18,7 @@ I hold a Bachelor's and Master’s degree in *Sociology* from the Otto-Friedrich
 Current Projects
 ======
 - [**"My (22m) Girlfriend (23f) Comes Home and Does Nothing" - Using LLMs to Study Gendered Perceptions of Paid and Unpaid Work in Reddit Relationship Discussions**](https://doi.org/10.31235/osf.io/qf7j8_v1): Together with Birgit Zeyer Gliozzo, Gundula Zoch, and Philipp Doebler, we examine how well LLMs can annotate manifest and latent constructs in Reddit posts. Building on these annotations, we study how male and female Redditors discuss relationship conflicts around paid and household labor over time.
-- **Gendered Communication in German Political Interview Podcasts Through Multimodal Data**: I investigate whether interviewers treat men and women differently in political interviews, drawing on multimodal data from podcast episodes.
+- **Manterrupted? A Multimodal Analysis of Gendered Interview Dynamics in German Political Podcasts**: I investigate whether interviewers treat men and women differently in political interviews, drawing on multimodal data from podcast episodes.
 
 
 Publications
