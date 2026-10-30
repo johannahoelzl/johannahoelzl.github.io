@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Sociology at the University of Mannheim where I research the quality of new data sources and methods for the social sciences. I am excited about  innovative data and methods to approach social science questions from a new perspective. At the same time, I take a critical look at the limitations and challenges for data quality that come with these data sources and methods, including social media data, API-based data, web tracking data, and LLMs.
+I am a PhD candidate in Sociology at the University of Mannheim where I research the quality of new data sources and methods for the social sciences and the opportunities they offer for the analysis of gendered communication. I am excited about innovative data and methods to approach social science questions from a new perspective. At the same time, I take a critical look at the limitations and challenges for data quality that come with these data sources and methods, including social media data, API-based data, multimodal podcast and talk show data, and LLMs.
 
 I joined the [Chair of Social Data Science and Methodology](https://www.sowi.uni-mannheim.de/keusch/) at the University of Mannheim in August 2021 as a PhD candidate supervised by Florian Keusch. Besides my research, I teach quantitative methods courses in the Sociology Bachelor's program.
 
